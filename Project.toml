@@ -1,0 +1,4 @@
+name = "ColumnStrengthHSS"
+uuid = "f35569d3-d720-4816-bc2e-e2894bff8103"
+authors = ["Cris Moen <54078289+cristophermoen@users.noreply.github.com>"]
+version = "0.1.0"
